@@ -1,12 +1,28 @@
-PROMPT 1:
+Prompt 1:
 Create homepage content for a men's grooming salon named Cheap & Best Men's Salon located in Anantapur.
-Include Headline, Sub-headline and Introduction Paragraph.
+
+Include:
+- Headline
+- Sub-headline
+- Introduction Paragraph
+
 Tone: Professional, welcoming, and trustworthy.
 
-PROMPT 2:
-Create professional service descriptions for a men's grooming salon.
-Include Service Name, Description and Customer Benefits.
+--------------------------------------------------
 
-PROMPT 3:
-Generate persuasive website call-to-action sections for a men's grooming salon.
-Requirements: Encourage bookings, build trust, create urgency.
+Prompt 2:
+Create a services page for Cheap & Best Men's Salon.
+
+Include:
+- Hair Styling
+- Facial Treatments
+- Groom Makeup
+
+Tone: Professional and customer-focused.
+
+--------------------------------------------------
+
+Prompt 3:
+Generate three call-to-action sections for a men's grooming salon.
+
+Tone: Persuasive and professional.
