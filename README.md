@@ -3,7 +3,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-# AI Website Copy Generator for Local Businesses
+# AI Website Copy Generator for Local Businesses using Prompt Engineering
 
 ### Future Interns – Prompt Engineering Task 1
 
@@ -99,6 +99,17 @@ Cheap & Best Men's Salon offers premium grooming services at affordable prices. 
 
 # Prompt 2 – Services Page Generation
 
+## Prompt
+
+Create a services page for Cheap & Best Men's Salon.
+
+Include:
+- Hair Styling
+- Facial Treatments
+- Groom Makeup
+
+Tone: Professional and customer-focused.
+
 ## Generated Output
 
 ### Hair Styling
@@ -110,9 +121,13 @@ Customized skincare treatments designed to cleanse, refresh, and rejuvenate the 
 ### Groom Makeup
 Complete grooming and makeup packages for weddings and special occasions.
 
----
-
 # Prompt 3 – Call-To-Action Generation
+
+## Prompt
+
+Generate three call-to-action sections for a men's grooming salon.
+
+Tone: Persuasive and professional.
 
 ## Generated Output
 
@@ -125,17 +140,28 @@ Reserve your preferred time slot today.
 ### Visit Cheap & Best Men's Salon
 Experience quality grooming services at affordable prices.
 
+### Visit Cheap & Best Men's Salon
+Experience quality grooming services at affordable prices.
+
+---
+
+## Repository Structure
+
+- README.md
+- banner.png
+- prompts.txt
+- homepage-copy.txt
+- services-page.txt
+- cta-sections.txt
+- outputs.txt
+
 ---
 
 ## Key Learnings
 
 - Prompt Design and Optimization
 - AI-Assisted Content Generation
-- Website Copywriting Fundamentals
-- Business Communication
-- GitHub Documentation
-
----
+...
 
 ## Conclusion
 
